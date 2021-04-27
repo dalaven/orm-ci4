@@ -20,8 +20,8 @@
 
     "autoload": {
         "psr-4": {
-            "orm\\Ci4\\models": "src/Models",
-            "orm\\Ci4\\entities": "src/Entities"
+            "orm\\Ci4\\models\\": "src/Models",
+            "orm\\Ci4\\entities\\": "src/Entities"
         }
     }
 }

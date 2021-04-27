@@ -2,6 +2,7 @@
     "name": "dalaven/orm-ci4",
     "description": "ORM for Codeigniter 4 based for models and entities",
 	"keywords": ["codegniter4", "codeigniter4-orm", "database", "orm", "sql"],
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.3 || ^8.0",
 		"codeigniter4/framework": "^4.0"
